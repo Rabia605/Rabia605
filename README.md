@@ -12,6 +12,7 @@
 - Right now I'm deep in **Deep Learning Projects**
 - Going deeper into **Machine Learning**
 - Find me at **rabianoreen095@gmail.com**
+- **Portfolio** https://rabia-noreen.vercel.app/
 - Little known fact **Left-handed in a right-handed world**
 
 <br/>
